@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.Toast.dll": "sha256-SnlpX7tqR4Or48+LUVR7CMv3xLhjy1JBnmDfQCb2GwM=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-GgCkcCalx\/3h2tzZqbfi\/H5H4zwf+gA7wOIJWVGaW3Y=",
       "Microsoft.AspNetCore.Components.dll": "sha256-tjgurODETDIWCTj+df3XjjWnMRi72XZXE78H5YaTpDc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-zrn\/FnIALTHMExILtqdkxOH1pM1etFsHZKdup5iX8tU=",
@@ -195,11 +196,11 @@
       "mscorlib.dll": "sha256-Fi+LybwHL\/VGD\/09OxxtYlT6exn9xVU+LdojZ9juR2c=",
       "netstandard.dll": "sha256-P8xX0ad1hKyWWbBxiXl3cYokFlDiuXwp3pqoYatH0kk=",
       "System.Private.CoreLib.dll": "sha256-2km83sNUTrumGJYdDzsN8RnJqv00vKWLCCh0UGajTB4=",
-      "BlazorAPiClient.dll": "sha256-KPh\/PXAYl8tHn7w65FUSN9\/CqCpXlzBhfvPRyxbG1f4="
+      "BlazorAPiClient.dll": "sha256-dc73xy7Q9FXpjvyzHAPFeT2GRRvQlDYrZvElnadZPKM="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BlazorAPiClient.pdb": "sha256-sy4uyJGLi5lRxEziJsBkHB1JWelzv2GOk1+f7pEhMNo="
+      "BlazorAPiClient.pdb": "sha256-SHWhKdYnYgI4sQeYdiUTQrAXW4\/GEg2Pll0JbHyGPQs="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ibxaSjW7s3aLVssChknhzCpgMTHGu4D48Q9OLP3dfe8=",

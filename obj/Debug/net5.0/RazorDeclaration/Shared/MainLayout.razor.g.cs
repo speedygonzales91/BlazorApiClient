@@ -82,6 +82,34 @@ using BlazorAPiClient.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "D:\Zsolt\BlazorApi\BlazorAPiClient\_Imports.razor"
+using System.Text;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "D:\Zsolt\BlazorApi\BlazorAPiClient\_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "D:\Zsolt\BlazorApi\BlazorAPiClient\_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "D:\Zsolt\BlazorApi\BlazorAPiClient\Shared\MainLayout.razor"
+using Blazored.Toast.Configuration;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

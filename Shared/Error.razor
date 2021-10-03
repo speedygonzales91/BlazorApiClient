@@ -1,0 +1,19 @@
+@inject IToastService _toastService
+
+
+
+<CascadingValue Value=this>
+  @ChildContent
+</CascadingValue>
+
+@code {
+  [Parameter]
+  public RenderFragment ChildContent { get; set; }
+
+  public void ProcessError(Exception ex)
+  {
+    //https://github.com/Blazored/Toast ->toastService install
+    _toastService.ShowError("Oops something went wrong. Prlease contact admin.");
+    Console.WriteLine("Huha");
+  }
+}

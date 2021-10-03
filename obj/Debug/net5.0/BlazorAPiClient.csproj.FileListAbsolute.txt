@@ -630,3 +630,10 @@ D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\BlazorAPiClient.csproj.CopyC
 D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\BlazorAPiClient.dll
 D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\ref\BlazorAPiClient.dll
 D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\BlazorAPiClient.pdb
+D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\RazorDeclaration\Pages\Base64Converter.razor.g.cs
+D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\Razor\Pages\Base64Converter.razor.g.cs
+D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\RazorDeclaration\Shared\Error.razor.g.cs
+D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\Razor\Shared\Error.razor.g.cs
+D:\Zsolt\BlazorApi\BlazorAPiClient\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll.gz
+D:\Zsolt\BlazorApi\BlazorAPiClient\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll
+D:\Zsolt\BlazorApi\BlazorAPiClient\obj\Debug\net5.0\build-gz\CspTieL6.gz
