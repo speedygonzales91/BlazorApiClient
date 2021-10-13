@@ -14,9 +14,6 @@ namespace BlazorAPiClient.Dtos
         [JsonPropertyName("launch_date_local")]
         public DateTimeOffset LaunchDateLocal { get; set; }
 
-        [JsonPropertyName("launch_date_utc")]
-        public DateTimeOffset LaunchDateUtc { get; set; }
-
         [JsonPropertyName("mission_name")]
         public string MissionName { get; set; }
     }

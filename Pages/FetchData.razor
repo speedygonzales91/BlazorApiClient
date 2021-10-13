@@ -1,6 +1,4 @@
 ﻿@page "/fetchdata"
-@using Dtos
-@inject HttpClient Http
 
 <h1>SpaceX Launches</h1>
 
@@ -16,7 +14,7 @@ else
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Istentative (y/n)</th>
+                <th>Tentative (y/n)</th>
                 <th>Launch Date</th>
                 <th>Mission name</th>
             </tr>
@@ -33,14 +31,4 @@ else
             }
         </tbody>
     </table>
-}
-
-@code {
-    private LaunchDto[] launches;
-
-    protected override async Task OnInitializedAsync()
-    {
-        launches = await Http.GetFromJsonAsync<LaunchDto[]>("https://api.spacex.land/rest/launches");
-    }
-
 }

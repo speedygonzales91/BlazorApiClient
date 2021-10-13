@@ -103,13 +103,6 @@ using Blazored.Toast.Services;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "D:\Zsolt\BlazorApi\BlazorAPiClient\Pages\FetchData.razor"
-using Dtos;
-
-#line default
-#line hidden
-#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -118,21 +111,6 @@ using Dtos;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 38 "D:\Zsolt\BlazorApi\BlazorAPiClient\Pages\FetchData.razor"
-       
-    private LaunchDto[] launches;
-
-    protected override async Task OnInitializedAsync()
-    {
-        launches = await Http.GetFromJsonAsync<LaunchDto[]>("https://api.spacex.land/rest/launches");
-    }
-
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591
